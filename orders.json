@@ -28,20 +28,20 @@
     "orderDate": "12.08.2026",
     "deliveryDate": "16.08.2026",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
+      "street": "Altenwerder Hauptstraße 11–15",
+      "postal_code": "21129",
+      "city": "Hamburg",
+      "country": "Deutschland",
+      "lat": "53.50265985552304",
+      "lng": "9.922803468595063"
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
+      "street": "Ederweg 2",
+      "postal_code": "34246",
+      "city": "Vellmar",
+      "country": "Deutschland",
+      "lat": "51.355568026440125",
+      "lng": "9.468314433679808"
     }
   }
 }
