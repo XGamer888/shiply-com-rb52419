@@ -1,0 +1,47 @@
+{
+  "RL481528024439": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Winkler, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Matthias Luchs, Sängelsrain 38, 34128 Kassel, Deutschland",
+    "price": "6.390,00 €",
+    "description": "Hersteller: Harley-Davidson<br>Typ: Sportster XL 1200 Custom<br>Fahrgestelnummer: 5HD1CT3C1DC439495<br>Erstzulassung: 07/2013<br>KM laut Vorbesitzer: 18.500 km<br>Leistung: 49 kW (67 PS)<br>Hubraum: 1.202 cm³<br>Farbe: Schwarz<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.<br>Im Lieferumfang enthalten: Doppelsitzbank, originaler Auspuff, originale schwarze Riemenabdeckung sowie originale Harley-Davidson-Spiegel und diverse Originalteile und Kleinteile.",
+    "address": "Matthias Luchs<br>Ederweg 2<br>34246 Vellmar<br>Deutschland<br>Telefon: +49 170 5423766",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "12.08.2026",
+    "deliveryDate": "16.08.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
