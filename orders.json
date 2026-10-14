@@ -1,6 +1,6 @@
 {
   "RL481528024439": {
-    "status": "Warten auf Zahlung",
+    "status": "Versandvorbereitung",
     "statusClass": "pending",
     "sender": "Lukas Winkler, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
     "receiver": "Matthias Luchs, Sängelsrain 38, 34128 Kassel, Deutschland",
@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "12.08.2026",
-    "deliveryDate": "16.08.2026",
+    "deliveryDate": "19.08.2026 🕟 16:30 Uhr",
     "pickup": {
       "street": "Altenwerder Hauptstraße 11–15",
       "postal_code": "21129",
