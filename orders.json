@@ -1,6 +1,6 @@
 {
   "RL481528024439": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Lukas Winkler, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
     "receiver": "Matthias Luchs, Sängelsrain 38, 34128 Kassel, Deutschland",
@@ -28,12 +28,12 @@
     "orderDate": "12.10.2026",
     "deliveryDate": "19.10.2026 🕟 16:30 Uhr",
     "pickup": {
-      "street": "Altenwerder Hauptstraße 11–15",
-      "postal_code": "21129",
-      "city": "Hamburg",
+      "street": "Hansestraße 34",
+      "postal_code": "38112",
+      "city": "Braunschweig-Veltenhof-Rühme",
       "country": "Deutschland",
-      "lat": "53.50265985552304",
-      "lng": "9.922803468595063"
+      "lat": "52.31377476875426",
+      "lng": "10.496052197369744"
     },
     "delivery": {
       "street": "Ederweg 2",
