@@ -26,14 +26,14 @@
       }
     ],
     "orderDate": "12.10.2026",
-    "deliveryDate": "19.10.2026 🕟 16:30 Uhr",
+    "deliveryDate": "20.10.2026 🕒 15:00 Uhr",
     "pickup": {
-      "street": "Hansestraße 34",
-      "postal_code": "38112",
-      "city": "Braunschweig-Veltenhof-Rühme",
+      "street": "Alexander-von-Humboldt-Straße 1, 34253 Lohfelden",
+      "postal_code": "34253",
+      "city": "Lohfelden",
       "country": "Deutschland",
-      "lat": "52.31377476875426",
-      "lng": "10.496052197369744"
+      "lat": "51.27236805177545",
+      "lng": "9.526076954988689"
     },
     "delivery": {
       "street": "Ederweg 2",
