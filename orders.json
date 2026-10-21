@@ -26,14 +26,14 @@
       }
     ],
     "orderDate": "12.10.2026",
-    "deliveryDate": "20.10.2026 🕒 15:00 Uhr",
+    "deliveryDate": "21-22.10.2026 🕒 15:00 Uhr",
     "pickup": {
-      "street": "Alexander-von-Humboldt-Straße 1, 34253 Lohfelden",
-      "postal_code": "34253",
-      "city": "Lohfelden",
+      "street": "Schlitzer Straße 56",
+      "postal_code": "36272",
+      "city": "Niederaula",
       "country": "Deutschland",
-      "lat": "51.27236805177545",
-      "lng": "9.526076954988689"
+      "lat": "",
+      "lng": ""
     },
     "delivery": {
       "street": "Ederweg 2",
